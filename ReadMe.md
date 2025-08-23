@@ -14,8 +14,8 @@ This gave me the opportunity to use some hands-on experience with several aspect
 7. I used Athena to query the final table and to make a few additional tweaks to the data, such as renaming further fields.
 8. I connected QuickSight to Athena and generated several graphs which give a view of the weather in my area during the relevant period.
 
-## The project design diagram can be found here:
+## The project design diagram can be found here: [Diagram](https://github.com/markcoty/AWS-Weather-API-Project/blob/main/AWS%20diagram/project-design.png)
 
-## The visuals produced are here, and are shown below, with commentary.
+## The visuals produced are here: [Visuals](https://github.com/markcoty/AWS-Weather-API-Project/tree/main/Visuals)
 
 ## Conclusion: The 5-day outlook didn't change much during the period covered, and clouds and rain are definitely dominant.
