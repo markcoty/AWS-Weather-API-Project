@@ -12,7 +12,7 @@ This gave me the opportunity to use some hands-on experience with several aspect
 5. I ran a crawler to catalog the data.
 6. I used a Glue job to remove some less interesting or unneeded fields (such as city, country, etc.).
 7. I used Athena to query the final table and to make a few additional tweaks to the data, such as renaming further fields.
-8. I connected QuickSight to Athena and generated several graphs which give a view of the weather in my area during the relevant period.
+8. I connected QuickSight to Athena and generated several graphs which give a view of the weather forecasts in my area during the relevant period.
 
 ## The project design diagram can be found here: [Diagram](https://github.com/markcoty/AWS-Weather-API-Project/blob/main/AWS%20diagram/project-design.png)
 
