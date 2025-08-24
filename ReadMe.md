@@ -18,6 +18,6 @@ This gave me the opportunity to use some hands-on experience with several aspect
 
 ## The visuals produced are here: [Visuals](https://github.com/markcoty/AWS-Weather-API-Project/tree/main/Visuals)
 
-## Some EDA can be viewed here, in the Jupyter Notebook: 
+## The EDA can be viewed here, in the Jupyter Notebook: [Notebook](https://github.com/markcoty/AWS-Weather-API-Project/blob/main/Notebook/AWS-Weather-API-Project.ipynb)
 
 ## Conclusion: The 5-day outlook didn't change much during the period covered, and clouds and rain are definitely dominant.
